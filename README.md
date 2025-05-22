@@ -8,4 +8,4 @@ Note:
 
 You can view the full documentation in the PDF below:
 
-[📄 View Documentation (PDF)]([./Documentation.pdf](https://github.com/lakmal-yapa-22/TypeScript-note/blob/6e8e1b53d558eb3adb714cc48729f3a4a2888202/TypeScript.pdf))
+[📄 View Documentation (PDF)][./Documentation.pdf](https://github.com/lakmal-yapa-22/TypeScript-note/blob/6e8e1b53d558eb3adb714cc48729f3a4a2888202/TypeScript.pdf)
